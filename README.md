@@ -1,1 +1,1 @@
-# MAD-project
+# OOP-project
